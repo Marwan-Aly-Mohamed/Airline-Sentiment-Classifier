@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset (download it from Kaggle, see README)
+data/*.csv
+
+# Generated files (recreated by the scripts)
+outputs/*.joblib
+outputs/*.npy
+outputs/train_data.csv
+outputs/test_data.csv
