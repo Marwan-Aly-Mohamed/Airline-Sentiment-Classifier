@@ -72,8 +72,8 @@ Scores can differ in the third decimal depending on library versions; the versio
 ## How to run
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Marwan-Aly-Mohamed/Airline-Sentiment-Classifier.git
+cd Airline-Sentiment-Classifier
 python -m venv venv
 venv\Scripts\activate          # Windows (Mac/Linux: source venv/bin/activate)
 pip install -r requirements.txt
